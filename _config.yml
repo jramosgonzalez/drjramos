@@ -21,10 +21,10 @@ repository               : "https://jramosgonzalez.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "perfil.jpg"
   name             : "Jorge Ramos González"
   pronouns         : # example: "she/her"  
-  bio              : "Doctor por la Universidad de Salamanca con la tesis New political actors and discourses in Europe after the great recession populism, radicalism, and sovereignism 2024. Dirigida por Dr. Iván Llamazares Valduvieco. Politólogo por la Universidad de Salamanca (USAL). Máster en Teoría Política y Cultura Democrática en la Universidad Complutense de Madrid (UCM)."
+  bio              : "Doctor y Politólogo por la Universidad de Salamanca (USAL). Máster en Teoría Política y Cultura Democrática en la Universidad Complutense de Madrid (UCM)."
   location         : "Salamanca"
   employer         : "Doctor"
   uri              : # URL
