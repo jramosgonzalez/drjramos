@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Esta es la primera prueba de la grandiosa biografía de mi vida académica, la cual, quedará plasmada no solo en esta sencilla página, sino en todos aquellos capítulos de los mejores libros de cada biblioteca.
+Esta es la primera prueba de la grandiosa biografía de mi vida académica, la cual, quedará plasmada, no solo en esta sencilla página, sino en todos aquellos capítulos de los mejores libros de cada biblioteca.
 
 Mis primeras publicaciones
 ======
